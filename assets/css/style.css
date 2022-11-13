@@ -1,0 +1,14 @@
+#myTable{
+   padding: 20px 50px;
+}
+th, td{
+    padding: 20px 50px;
+    border: 2px solid rgb(131, 126, 126);
+    
+
+}
+thead{
+    background-color: #000;
+    color: #fff;
+    
+}
